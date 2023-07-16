@@ -2,7 +2,7 @@
 
 To see the failure, you have to be on the NIH network (e.g., behind the firewall). Then:
 
-1. [Install NodeJS](https://nodejs.org/en) (version 18 or greater).
+1. [Install NodeJS](https://nodejs.org/en) (version 18 or greater, and ideally on a Mac, which is where this was initially noted).
 1. Clone this repository.
 1. In this repository's directory, perform an `npm install`.
 
