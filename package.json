@@ -1,0 +1,13 @@
+{
+  "name": "ssl-renegotiation-fail-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+		"openid-client": "NCI-CCR-OIT/node-openid-client"
+  }
+}
